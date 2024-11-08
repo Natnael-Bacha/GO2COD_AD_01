@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273216913130",
+    "project_id": "quiz-ce943",
+    "storage_bucket": "quiz-ce943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273216913130:android:a67a4fc14071ca5931a193",
+        "android_client_info": {
+          "package_name": "com.gocod.go2code_ad_02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN1QHiGXdWiD3TuLhwtFssgW0ULUlwXw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
